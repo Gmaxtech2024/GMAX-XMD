@@ -1,3 +1,0 @@
-
-worker: node body.js 
-
