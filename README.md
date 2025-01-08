@@ -5,7 +5,7 @@
 
 </p>
 <p align="center"> 
-  <a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h">
+  <a href="https://whatsapp.com/channel/0029VaFytPbAojYm7RIs6l1x">
     </p>
  
  
@@ -17,11 +17,11 @@
 
 
  <p align="left">
-  <a href="https://github.com/Gmaxhacker1/GMAX-XMD/fork">
+  <a href="https://github.com/Gmaxtech2024/GMAX-XMD/fork">
     <img src="https://img.shields.io/github/forks/Gmaxhacker1/GMAX-XMD?label=Fork&style=social">
   <p align="left"> 
-  <a href="https://github.com/Gmaxhacker1/GMAX-XMD/stargazers">
-    <img src="https://img.shields.io/github/stars/Gmaxhacker1/GMAX-XMD?style=social">
+  <a href="https://github.com/Gmaxtech2024/GMAX-XMD/stargazers">
+    <img src="https://img.shields.io/github/stars/Gmaxtech2024/GMAX-XMD?style=social">
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -51,7 +51,7 @@
 
 1. Fork the repo
     <br>
-<a href='https://github.com/Gmaxhacker1/GMAX-XMD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/Gmaxtech2024/GMAX-XMD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 2. Get session id by (SCANNING QR1)
@@ -61,7 +61,7 @@
 
 2. Get session id by (PAIRING CODE2)
     <br>
-<a href='https://wa-session-1.onrender.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://cybersession.onrender.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -77,7 +77,7 @@
 
 2. Now Deploy
     <br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Gmaxhacker1/GMAX-XMD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Gmaxtech2024/GMAX-XMD)
   
 <a href='https://replit.com/~' target="_blank"><img alt='Deploy Replit' src='https://img.shields.io/badge/DEPLOY REPLIT-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
@@ -101,7 +101,7 @@
 
 2. Now Deploy
     <br>
-    <a href='https://repl.it/github.com/Gmaxhacker1/GMAX-XMD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+    <a href='https://repl.it/github.com/Gmaxtech2024/GMAX-XMD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -113,7 +113,7 @@
 
 1. Fork the repo
     <br>
-<a href='https://github.com/Gmaxhacker1/GMAX-XMD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/Gmaxtech2024/GMAX-XMD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 2. Get session id by (SCANNING QR1)
@@ -132,6 +132,6 @@
 </p>
 
 <p align="center">
-  <small>&copy; 2024 CODE BY MR GMAX / GMAX XMD</small>
+  <small>&copy; 2025 CODE BY MR GMAX / GMAX XMD</small>
 </p>
 
