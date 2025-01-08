@@ -112,7 +112,7 @@ setTimeout(() => {
         const zk = (0, baileys_1.default)(sockOptions);
         store.bind(zk.ev);
    // Auto-react to status updates, handling each status one-by-one without tracking
-if (conf.POPKID_XTECH === "yes") {
+if (conf.GMAX_XMD === "yes") {
     zk.ev.on("messages.upsert", async (m) => {
         const { messages } = m;
         
